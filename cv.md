@@ -45,7 +45,7 @@ Basic knowledge about:
 
 ### Experience
 
-Developed the site of a fictional design studio [https://haroshii232.github.io/nerds/] (https://haroshii232.github.io/nerds/).
+Developed the site of a fictional design studio [https://haroshii232.github.io/nerds/](https://haroshii232.github.io/nerds/).
 
 ### Education
 
@@ -54,4 +54,4 @@ Also finished intensive on html and css lvl.1 by HTML Academy (god bless torents
 
 ### English level
 
-The last test I passed showed that my level of English is A2. I do not have ызуфлштп practice, but I understand well written text and spoken language.
+The last test I passed showed that my level of English is A2. I have no speaking practice, but I understand well written text and spoken language.
