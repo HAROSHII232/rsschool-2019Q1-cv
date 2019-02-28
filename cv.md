@@ -45,7 +45,7 @@ Basic knowledge about:
 
 ### Experience
 
-Developed the site of a fictional design studio.
+Developed the site of a fictional design studio [https://haroshii232.github.io/nerds/] (https://haroshii232.github.io/nerds/).
 
 ### Education
 
