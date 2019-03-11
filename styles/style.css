@@ -79,6 +79,7 @@ header {
 pre {
     background: #d5dae2;
     padding: 20px 20px 0;
+    box-shadow: 20px 8px 24px -1px rgba(0, 0, 0, 0.3);
 }
 
 .description a {
