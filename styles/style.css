@@ -1,0 +1,88 @@
+body {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    font-family: 'Oswald', Arial, sans-serif;
+    font-size: 18px;
+    line-height: 28px;
+}
+
+.container {
+    max-width: 1024px;
+    margin: 0 auto;
+}
+
+header {
+    background: #B365D4;
+}
+
+.title {
+    position: relative;
+    font-size: 40px;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.main-content {
+    padding: 50px 0;
+    background: #99dfdc;
+}
+
+.main-content>.container {
+    box-sizing: border-box;
+    border: 3px solid #A63CD4;
+    padding: 20px;
+}
+
+.name {
+    margin: 0;
+    font-size: 30px
+}
+
+.contacts {
+    position: relative;
+    margin-bottom: 80px;
+    padding-left: 120px;
+    list-style: none;
+}
+
+.contacts::before {
+    content: '';
+    position: absolute;
+    left: 0;
+    width: 100px;
+    height: 150px;
+    background: url('https://gl.weburg.net/00/persons/5/20269/big/515794.jpg') 100% 100% no-repeat;
+    background-size: contain;
+}
+
+.subtitle {
+    text-align: center;
+    font-size: 20px;
+    text-transform: uppercase;
+}
+
+.description {
+    text-align: justify;
+}
+
+.skill-list {
+    padding: 0
+}
+
+.skill-list>li {
+    margin-left: 40px;
+}
+
+pre {
+    padding: 20px 20px 0;
+    box-shadow: 20px 8px 24px -1px rgba(0, 0, 0, 0.3);
+    background: #d5dae2;
+}
+
+.description a {
+    text-decoration: none;
+    color: #B365D4
+}
